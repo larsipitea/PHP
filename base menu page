@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="sv">
+<head>
+	<meta charset="UTF-8">
+	<meta name='viewport'  content='width=device-width, initial-scale=1.0, maximum-scale=1.0' />
+	<link rel="stylesheet" type="text/css" href="digide.css">
+	<link href="https://fonts.googleapis.com/css?family=Orbitron" rel="stylesheet">
+	<script src="digide.js"></script>
+</head>
+<body >
+
+<main id="man">
+	Digidé
+<h4 id="h4one">Javascript canvas programmering</h4>
+	<h5><a href="#">[Go To The Course]</a></h5>
+
+	<canvas id="cvs" >
+
+	</canvas>
+	<div class="btn" id="on">Animation On</div>
+	<div class="btn" id="off">Animation Off</div>
+</main>
+
+
+</body>
+
+<script>
+
+
+</script>
+
+</html>
